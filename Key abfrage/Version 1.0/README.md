@@ -2,7 +2,7 @@
 
 **Projekt Version:** `1.0`
 
-**Projekt Sprache:** `Python`
+**Projekt Sprache:** `Python`, `PhP` und `Shell`
 
 **Projekt zweck:** Ein Tool mit welchem du über Linux eine Key abfrage in deinen Python Projekten haben kannst.
 

@@ -81,7 +81,7 @@ setup(
 
 **Projekt Version:** `1.0`
 
-**Projekt Sprache:** `Python`
+**Projekt Sprache:** `Python`, `PhP` und `Shell`
 
 **Projekt zweck:** Ein Tool mit welchem du über Linux eine Key abfrage in deinen Python Projekten haben kannst.
 
@@ -111,7 +111,7 @@ setup(
 
 **Projekt Version:** `1.0`
 
-**Projekt Sprache:** `Python` und `PhP`
+**Projekt Sprache:** `Python`
 
 **Projekt zweck:** Ein Tool mit welchem du schnell und einfach mehrere USB Sticks formatieren kannst.
 
